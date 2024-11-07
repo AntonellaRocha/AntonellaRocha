@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonella</h1>
-<h3 align="center">I’m a Junior FrontEnd Developer</h3>
+<h3 align="center">I’m a Junior FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonellarocha&label=Profile%20views&color=a308a6&style=flat" alt="antonellarocha" /> </p>
 
